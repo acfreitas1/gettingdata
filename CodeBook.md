@@ -1,12 +1,4 @@
----
-title: "**Code Book**"
-output:
-  html_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Code Book
 
 **Getting and Cleaning Data - Project course**  
 This code book describes the data, the variables, and the transformations done to organize and clean the data set. The resulting data set is written as `tidy.txt`.
